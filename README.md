@@ -6,6 +6,10 @@
 
 Sistema de Controle Financeiro que controla a receitas e despesas do usuário, desenvolvido em Next.js com Zustand.
 
+Se você deseja experimentar o sistema, confira a demonstração anexado no link abaixo:
+
+**live demo: [https://next-finance-blue.vercel.app/](https://next-finance-blue.vercel.app/)**
+
 ## Features
 
 - [x] Efetuar um CRUD básico
